@@ -1,0 +1,14 @@
+# Databáze
+*.db
+*.sqlite
+*.sqlite3
+
+# Konfigurace a prostředí
+.env
+.env.*
+
+# Python mezipaměť a virtuální prostředí
+__pycache__/
+*.py[cod]
+.venv/
+venv/
